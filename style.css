@@ -1,0 +1,163 @@
+.{
+   padding: 0;
+   margin: 0;
+}
+  
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    list-style-type: none;
+    
+
+}
+.firstsec h1{
+       font-size: 90px;
+       margin: 100px;
+     
+}
+   
+
+
+.main-div
+{
+   display: flex;
+   
+}
+
+.subdiv-1,.subdiv-2,.subdiv-3,.subdiv-4
+{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.subdiv-1 ul,.subdiv-2 ul,.subdiv-3 ul,.subdiv-4 ul{
+   list-style-type: none ;
+   
+}
+.subdiv-2 img,.subdiv-3 img,.subdiv-4 img
+{
+   height: 60px;
+   width: 60px;
+}
+.mid-sec img{
+   height: 300px;
+   width: 500px;  
+}
+.mid-sec{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.pic5 img,.pic6 img,.pic7 img ,.pic8 img{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+}
+.pics-all{
+      display: flex;
+      justify-content: space-evenly ;  
+}
+.button{
+    align-items: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.lorm{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.logo-sample{
+   display: flex;
+   counter-increment: none;
+}
+.logo1,.logo2,.logo3,.logo4,.logo5,.logo6{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 15%;
+}
+.logo-sample2{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.logo7,.logo8,.logo9{
+     display: flex;
+     width: 100%;
+     align-items: center;
+     justify-content: center;
+     
+}
+.h1-heading h1{
+   font-size: 50px;
+   margin: 40px;
+}
+.h1-headingimg{
+   display: flex;
+}
+.li123{
+
+ counter-increment: none;  
+}
+.headingimg2button1.button2.button3{
+   color: blueviolet;
+} 
+.table-last{
+   display: flex;
+   width: 100%;
+   align-items: center;
+   justify-content: space-between;
+   width: 50%;
+   
+}
+.table1{
+   color: blue;
+} 
+.tablebutton{
+   color: black;
+}
+.tablebutton2
+  {color: blue;
+}
+.table-last{
+counter-increment: none;
+
+}
+.lastsec{
+   display: flex;
+   width: 50%;
+   align-items: center;
+   justify-content: space-between;
+   width: auto;
+}
+.abcd-e{
+   display: flex;
+   align-content: center;
+   justify-content: center;
+   
+}
+.valu-1{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   justify-content: space-between;
+}
+.letter-s{
+   display: flex;
+}
+.box{
+   height: 40px;
+   width: 150px;
+
+}
